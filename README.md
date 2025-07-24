@@ -7,7 +7,7 @@ This project explores and analyzes an **asthma patient dataset** to uncover insi
 ## 📁 Files Included
 
 - `Asthma.ipynb` — Jupyter Notebook containing the full analysis workflow.
-- `Asthma.csv` — (Expected) dataset used for the analysis. *(Ensure this is included in your repository.)*
+- `Asthma.csv` — dataset used for the analysis.
 
 ---
 
@@ -67,25 +67,10 @@ This project explores and analyzes an **asthma patient dataset** to uncover insi
 
 ---
 
-## 📌 How to Use
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/asthma-analysis.git
-cd asthma-analysis
-
-# Open the notebook
-jupyter notebook Asthma.ipynb
-```
-
-Ensure `Asthma.csv` is in the same directory as the notebook.
-
----
-
 ## 🙋‍♂️ Author
 
 **Ahmed El-Shahat**  
-Pharmacist | Data Analyst | Aspiring Data Scientist  
+Data Analyst | Aspiring Data Scientist  
 📍 Cairo, Egypt
 
 ---
